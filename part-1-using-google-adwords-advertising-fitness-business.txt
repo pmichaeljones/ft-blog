@@ -16,4 +16,24 @@ Google AdWords is a form of advertising called pay-per-click(PPC). It's a facet 
 
 PPC is just what it sounds, you pay a fee to Google every time someone clicks your advertisement. These advertisements are shown at the top of the SERP, along the side of the SERP, or on other websites that are part of the Google AdWords network and contain words on the page that match your selected advertisement keywords.
 
+Here's a good example of how AdWords works for a fitness business. Every one of the steps below will get its own post, so click on the hyperlinks to go to that specific information.
+
+1. A fitness business chooses their advertising location, for this example, they want their ads to only show when people in a certain zipcode make a search.
+
+2. They choose keywords that must be in the search query in order for their ad to show up. They pick the words: "fitness" "gym" "their-city-name"
+
+3. They create a text-based ad that says: "Gym-name-here. Get in shape in city-name-here. Sign up for a free week pass here." and created a landing page, where the person will go if they click on the ad. This should usually be a special web page only accessible via clicking the advertisement. You don't want people going to this page, otherwise the fitness business won't be able to track their traffic.
+
+4. When someone searches: "good gyms in city-name-here", the gym's add shows up in the SERP, alongside other businesses that are advertising based on the same keywords. Some business with big budgets do blanket advertising, where their ad shows up anytime someone searches the word "gym" or "fitness". Their ads will show up, as well as the fitness business we're using in this example.
+
+5. The person making the web search decides to click on the gym's advertisement. When they make this click, Google registers the click, charges the business a PPC fee, and then sends the person to the designated landing page. From there, Google is done. They've made their PPC fee, and now it's up to the person to, hopefully, fill out a form or personal some call-to-action(CTA), like filling out a form or registering on the website.
+
+
+
+
+
+
+
+
+
 Image Credit:
