@@ -10,8 +10,10 @@ FitnessTexter does not provide Google Adwords services. If you're looking for se
 
 This is going to be an extremely long post, cut into multiple parts. First, I'll discuss HOW Google AdWords works. This will give you a better idea of how to make your internet marketing campaign more successful.
 
-First and foremost, let's go over all the acronyms that I'll be using throuhout this post. The internet is full of acronyms and internet marketing is no different. Most of the acronyms search their purpose, they shorten long phrases and don't have much meaning besides their letters. This is very unlike US government backronyms; things like the PATRIOT Act. Someone's job was to create a phrase that could be shortened into PATRIOT. Stupid! Anyways, enough ranting, onto the good stuff.
+First and foremost, let's go over all the acronyms that I'll be using throuhout this post. The internet is full of acronyms and internet marketing is no different. Most of the acronyms serve their purpose, they shorten long phrases and don't have much meaning besides their letters. This is very unlike US government backronyms; things like the PATRIOT Act. Someone's job was to create a phrase that could be shortened into PATRIOT. Stupid! Anyways, enough ranting, onto the good stuff.
 
-Google AdWords is a form of advertising called pay-per-click(PPC). It's a facet of search engine marketing(SEM). Within SEM, you'll also find search engine optimization(SEO). SEO is all about getting your business to show up high in the search engine results page(SERP).
+Google AdWords is a form of advertising called pay-per-click(PPC). It's a facet of search engine marketing(SEM). Within SEM, you'll also find search engine optimization(SEO). SEO is all about getting your business to show up high in the search engine results page(SERP). The top 3 results from a Google search get something like 80% of the clicks, so being in those top 3 is extremely important. SEO has a lot to do with creating good content and getting lots of social shares, which in turn are factored into your web authority on a certain topic(the keywords of your article). This post isn't about SEO though.
+
+PPC is just what it sounds, you pay a fee to Google every time someone clicks your advertisement. These advertisements are shown at the top of the SERP, along the side of the SERP, or on other websites that are part of the Google AdWords network and contain words on the page that match your selected advertisement keywords.
 
 Image Credit:
